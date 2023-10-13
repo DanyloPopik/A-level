@@ -1,0 +1,5 @@
+C:\Users\danya\source\repos\homework1\homework1\bin\Release\net7.0\publish\homework1.exe
+C:\Users\danya\source\repos\homework1\homework1\bin\Release\net7.0\publish\homework1.dll
+C:\Users\danya\source\repos\homework1\homework1\bin\Release\net7.0\publish\homework1.deps.json
+C:\Users\danya\source\repos\homework1\homework1\bin\Release\net7.0\publish\homework1.runtimeconfig.json
+C:\Users\danya\source\repos\homework1\homework1\bin\Release\net7.0\publish\homework1.pdb

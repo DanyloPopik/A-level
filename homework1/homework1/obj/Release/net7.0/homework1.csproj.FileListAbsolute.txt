@@ -1,0 +1,14 @@
+C:\Users\danya\source\repos\homework1\homework1\bin\Release\net7.0\homework1.exe
+C:\Users\danya\source\repos\homework1\homework1\bin\Release\net7.0\homework1.deps.json
+C:\Users\danya\source\repos\homework1\homework1\bin\Release\net7.0\homework1.runtimeconfig.json
+C:\Users\danya\source\repos\homework1\homework1\bin\Release\net7.0\homework1.dll
+C:\Users\danya\source\repos\homework1\homework1\bin\Release\net7.0\homework1.pdb
+C:\Users\danya\source\repos\homework1\homework1\obj\Release\net7.0\homework1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danya\source\repos\homework1\homework1\obj\Release\net7.0\homework1.AssemblyInfoInputs.cache
+C:\Users\danya\source\repos\homework1\homework1\obj\Release\net7.0\homework1.AssemblyInfo.cs
+C:\Users\danya\source\repos\homework1\homework1\obj\Release\net7.0\homework1.csproj.CoreCompileInputs.cache
+C:\Users\danya\source\repos\homework1\homework1\obj\Release\net7.0\homework1.dll
+C:\Users\danya\source\repos\homework1\homework1\obj\Release\net7.0\refint\homework1.dll
+C:\Users\danya\source\repos\homework1\homework1\obj\Release\net7.0\homework1.pdb
+C:\Users\danya\source\repos\homework1\homework1\obj\Release\net7.0\homework1.genruntimeconfig.cache
+C:\Users\danya\source\repos\homework1\homework1\obj\Release\net7.0\ref\homework1.dll
